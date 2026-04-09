@@ -1,0 +1,20 @@
+{
+  "top_to_door2": {
+    "MED_px": 124.80,
+    "median_px": 90.09,
+    "std_px": 112.50,
+    "p90_px": 258.39,
+    "p95_px": 350.19,
+    "n_points": 1034,
+    "n_sessions": 14
+  },
+  "bottom_to_door2": {
+    "MED_px": 139.16,
+    "median_px": 101.57,
+    "std_px": 132.92,
+    "p90_px": 280.93,
+    "p95_px": 362.73,
+    "n_points": 970,
+    "n_sessions": 14
+  }
+}

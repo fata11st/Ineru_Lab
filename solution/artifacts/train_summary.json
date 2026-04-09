@@ -1,0 +1,20 @@
+{
+  "top": {
+    "model": "1-stage",
+    "sm_primary": 20000,
+    "sm_correction": null,
+    "cv_1stage": 175.48,
+    "cv_2stage": 175.54,
+    "train_med": 153.53,
+    "n_points": 3835
+  },
+  "bottom": {
+    "model": "1-stage",
+    "sm_primary": 50000,
+    "sm_correction": null,
+    "cv_1stage": 142.08,
+    "cv_2stage": 142.05,
+    "train_med": 133.16,
+    "n_points": 3369
+  }
+}
